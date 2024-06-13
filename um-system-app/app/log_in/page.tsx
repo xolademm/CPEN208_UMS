@@ -9,7 +9,7 @@ export default function Login(){
       <img
         alt="logo"
         className="w-8 h-8 mr-2"
-        src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg"
+        src="logo_2.png"
       />
       UMS Sign in
     </a>
